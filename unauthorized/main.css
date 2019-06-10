@@ -1,0 +1,150 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+
+    background: #000000;
+}
+.line{
+    width: 80%;
+    margin-top: 79px;
+    transition-property: color;
+    transition-duration: 6s;
+
+    background: beige;
+
+}
+.logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 23px;
+    margin-left: 6.5%;
+
+}
+.helper {
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    margin-top: 13px;
+    margin-left: 9%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+
+    color: azure;
+}
+.option{
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 73%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+
+    color: azure;
+}
+.logIn{
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 85%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+
+    color: azure;
+}
+.backGround{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 80px;
+    left: 0px;
+}
+.shadow {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 80px;
+    left: 0px;
+
+    background-color: #000;
+    opacity: 1;
+}
+.helperBig{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 35%;
+    margin-left: 30%;
+    transition-property: color;
+    transition-duration: 5s;
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+
+    color: azure;
+}
+.secondBlock {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    left: 0%;
+    background-color: #000000;
+}
+h1{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 15%;
+    left: 15%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+
+    color: azure;
+    opacity: 1;
+}
+.faq{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 30%;
+    left: 15%;
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+
+    color: azure;
+    opacity: .6;
+}
+.route{
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    top: 25%;
+    left: 55%;
+}

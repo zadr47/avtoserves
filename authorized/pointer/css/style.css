@@ -1,0 +1,16 @@
+#logout a:hover{
+	text-decoration:none;
+	color:white;
+}
+#logout a:active {
+	text-decoration:none;
+	color:white;
+}
+#logout a:link {
+	color:white;
+	text-decoration:none;
+}
+#logout a:visited{
+	text-decoration:none;
+	color:white;
+}

@@ -1,0 +1,158 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+
+    background: #000000;
+}
+.line{
+    width: 80%;
+    margin-top: 79px;
+    transition-property: color;
+    transition-duration: 6s;
+
+    background: beige;
+
+}
+.logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 23px;
+    margin-left: 6.5%;
+
+}
+.helper {
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    margin-top: 13px;
+    margin-left: 9%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+
+    color: azure;
+}
+.logIn {
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    margin-top: 2%;
+    margin-left: 85%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+
+    color: azure;
+}
+.log{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 25%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line1{
+    position: absolute;
+    margin-top: 26%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+    outline: none;
+}
+.pass1{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 27%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line2{
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 42.5%;
+    width: 200px;
+    background-color: #191919;
+    outline: none;
+}
+.pass2{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 29%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line3{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 42.5%;
+    width: 200px;
+    background-color: #191919;
+    outline: none;
+}
+.email{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 31%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line4{
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 42.5%;
+    width: 200px;
+    background-color: #191919;
+    outline: none;
+}
+.exeption{
+    position: absolute;
+    width: 450px;
+    height: 10px;
+    margin-top: 32%;
+    margin-left: 42.5%;
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+
+    color: red;
+}
+.inp{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    margin-top: 36%;
+    margin-left: 42.5%;
+    border: none;
+    background: #ece5df;
+    border-radius: 20px;
+    outline: none;
+}
+.inp:hover{
+    opacity: .8
+}
+.header img,p{
+}

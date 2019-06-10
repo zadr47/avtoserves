@@ -1,0 +1,161 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+
+    background: #000000;
+}
+.line{
+    width: 80%;
+    margin-top: 79px;
+    transition-property: color;
+    transition-duration: 6s;
+
+    background: beige;
+
+}
+.logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 23px;
+    margin-left: 6.5%;
+
+}
+.helper {
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    margin-top: 13px;
+    margin-left: 9%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+
+    color: azure;
+}
+
+.logIn{
+    position: absolute;
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 85%;
+
+
+    font-family: Nunito Sans, sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+
+    color: azure;
+}
+.name{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 23%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line1{
+    position: absolute;
+    margin-top: 24%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+}
+.phone{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 25%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line2{
+    position: absolute;
+    margin-top: 26%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+}
+.car{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 27%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line3 {
+    position: absolute;
+    margin-top: 28%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+}
+.card{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 29%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line4{
+    position: absolute;
+    margin-top: 30%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+}
+.cvc{
+    position: absolute;
+    padding-left: 1%;
+    width: 200px;
+    height: 30px;
+    margin-top: 31%;
+    margin-left: 42.5%;
+    border: none;
+    outline: none;
+}
+.line5{
+    position: absolute;
+    margin-top: 32%;
+    width: 200px;
+    margin-left: 42.5%;
+    background-color: #191919;
+}
+.exeption{
+    color:red;
+    font-size:13;
+    position: absolute;
+    margin-top: 32%;
+    width: 300px;
+    margin-left: 42.5%;
+    margin-bottom: 10px;
+}
+.call{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    margin-top: 36%;
+    margin-left: 42.5%;
+    border: none;
+    background: #ece5df;
+    border-radius: 20px;
+}
