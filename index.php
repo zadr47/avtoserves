@@ -3,6 +3,7 @@
 	require_once($_SERVER['DOCUMENT_ROOT'].'/ever/class.php');
 	require_once($_SERVER['DOCUMENT_ROOT'].'/ever/function.php');
 	is_table_user();
+	$zd = 5;
 	//проверка существует ли ссесия у пользователя
 	if(isset($_SESSION['connection'])){
 		//если существует - переходим на главную страницу 
